@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toolskill",
+  "name": "Tools Killer",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "m4lg.cn:8080",
+  "updateUrl": "",
+  "authorList": ["LongGe"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

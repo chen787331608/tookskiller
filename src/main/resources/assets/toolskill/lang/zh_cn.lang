@@ -1,0 +1,5 @@
+# Items
+item.ingot_copper.name=铜 锭
+
+# Blocks
+tile.ore_copper.name=铜矿石

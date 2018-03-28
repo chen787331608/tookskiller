@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "C C",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:slime"
+    },
+    "C": {
+      "item": "minecraft:slime"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_shulker_box"
+  }
+}
